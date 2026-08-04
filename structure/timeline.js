@@ -2053,7 +2053,7 @@ express.get("/fortnite/api/calendar/v1/timeline", async (req, res) => {
         })
     }
 
-    if (config.Profile.bAllSTWEventsActivated == true) {
+    if (config.Profile.bAllSTWEventsActivated == true && memory.season >= 13) {
         var Events = [
             "EventFlag.Blockbuster2018",
             "EventFlag.Blockbuster2018Phase1",
