@@ -786,7 +786,7 @@
             }
           ],
           "meta": {
-            "MaxConcurrentPurchases": "-1",
+            "MaxConcurrentPurchases": "1",
             "Preroll": "True",
             "ProfileId": "campaign",
             "EventLimit": "-1"
@@ -811,7 +811,7 @@
           "metaInfo": [
             {
               "key": "MaxConcurrentPurchases",
-              "value": "-1"
+              "value": "1"
             },
             {
               "key": "Preroll",
@@ -888,7 +888,7 @@
             }
           ],
           "meta": {
-            "MaxConcurrentPurchases": "-1",
+            "MaxConcurrentPurchases": "1",
             "Preroll": "True",
             "ProfileId": "campaign",
             "EventLimit": "-1"
@@ -902,7 +902,7 @@
           "metaInfo": [
             {
               "key": "MaxConcurrentPurchases",
-              "value": "-1"
+              "value": "1"
             },
             {
               "key": "Preroll",
