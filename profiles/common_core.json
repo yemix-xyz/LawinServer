@@ -19,6 +19,13 @@
       },
       "quantity": 1
     },
+    "Token:campaigntutorialcomplete": {
+      "templateId": "Token:campaigntutorialcomplete",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
     "CampaignFoundersPack1": {
       "templateId": "Token:founderspack_1",
       "attributes": {
