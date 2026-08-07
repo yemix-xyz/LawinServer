@@ -561,6 +561,11 @@ express.all("/v1/epic-settings/public/users/*/values", async (req, res) => {
     res.json(epicsettings)
 })
 
+express.post("/epic/socs/v1/users/*/settings/query", async (req, res) => {
+    const socssettings = require("./../responses/socs-settings.json");
+    res.json(socssettings)
+})
+
 express.get("/fortnite/api/game/v2/br-inventory/account/*", async (req, res) => {
     res.json({
         "stash": {

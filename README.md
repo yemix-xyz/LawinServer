@@ -42,6 +42,7 @@
 - Switching between Hero Loadouts
 - Favoriting items
 - Marking items as seen
+- Setting the Homebase name
 - Changing items in Locker
 - Changing banner icon and banner color
 - Changing items edit styles
