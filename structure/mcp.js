@@ -1210,6 +1210,41 @@ express.post("/fortnite/api/game/v2/profile/*/client/ClientQuestLogin", async (r
         }
     }
 
+    // Make sure only one correct AthenaSeason item is in the profile. This fixes the MOTD not appearing in S41+
+    if (memory.season >= 41) {
+        for (var key in profile.items) {
+            if (profile.items[key].templateId.toLowerCase().startsWith("athenaseason:")) {
+                delete profile.items[key];
+
+                ApplyProfileChanges.push({
+                    "changeType": "itemRemoved",
+                    "itemId": key
+                })
+            }
+        }
+
+        const ID = functions.MakeID();
+
+        profile.items[ID] = {
+            "templateId": `AthenaSeason:athenaseason${memory.season}`,
+            "attributes": {
+                "level": 100,
+                "currency_season_total": 100,
+                "purchase_date": "min",
+                "purchase_context": "None"
+            },
+            "quantity": 1
+        }
+
+        ApplyProfileChanges.push({
+            "changeType": "itemAdded",
+            "itemId": ID,
+            "item": profile.items[ID]
+        })
+
+        StatChanged = true;
+    }
+
     if (StatChanged == true) {
         profile.rvn += 1;
         profile.commandRevision += 1;
