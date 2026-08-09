@@ -12,7 +12,7 @@
       "templateId": "Quest:heroquest_loadout_ninja_1",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -702,7 +702,7 @@
       "templateId": "Quest:challenge_herotraining_2",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -881,7 +881,7 @@
       "templateId": "Quest:challenge_eldritchabominations_20",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 100,
         "challenge_bundle_id": "",
@@ -947,7 +947,7 @@
       "templateId": "Quest:outpostquest_firstopen_ssd",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -986,7 +986,7 @@
       "templateId": "Quest:genericquest_completestormzones_repeatable",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -1130,7 +1130,7 @@
       "attributes": {
         "gender": "2",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Pragmatic-F02.IconDef-WorkerPortrait-Pragmatic-F02",
         "max_level_bonus": 0,
@@ -1189,7 +1189,7 @@
       "attributes": {
         "gender": "2",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-Doctor-F01.IconDef-ManagerPortrait-Doctor-F01",
         "max_level_bonus": 0,
@@ -1356,7 +1356,7 @@
       "attributes": {
         "level": -1,
         "completion_plankertonquest_reactive_records": 5,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -1441,7 +1441,7 @@
       "attributes": {
         "level": -1,
         "completion_pickaxequest_stw002_tier_3": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -1753,7 +1753,7 @@
       "attributes": {
         "completion_heroupgrade_tabcallout": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "completion_heroupgrade_guard_command": 1,
@@ -1823,7 +1823,7 @@
       "attributes": {
         "completion_pickaxequest_stw004_tier_5": 4,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -1943,7 +1943,7 @@
       "attributes": {
         "completion_heroloadout_teamperk_intro": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_heroloadout_support3_intro": 1,
         "completion_heroloadout_teamperk_guardscreen1": 1,
@@ -2024,7 +2024,7 @@
       "attributes": {
         "completion_kill_husk_ele_nature": 6,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -2423,7 +2423,7 @@
       "templateId": "Quest:plankertonquest_launchtherocket",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -2512,7 +2512,7 @@
       "attributes": {
         "gender": "2",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Dependable-F03.IconDef-WorkerPortrait-Dependable-F03",
         "max_level_bonus": 0,
@@ -2563,7 +2563,7 @@
         "completion_stonewoodquest_ability_hoverboard": 1,
         "level": -1,
         "completion_complete_pve01_diff4": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -2582,7 +2582,7 @@
       "templateId": "Quest:stonewoodquest_killcollect_mistmonsters",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -2750,7 +2750,7 @@
       "templateId": "Quest:plankertonquest_landmark_plankharbor",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -2804,7 +2804,7 @@
       "attributes": {
         "completion_heroloadout_support1_intro": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -3074,7 +3074,7 @@
       "templateId": "Quest:stonewoodquest_mechanical_buildlev2",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -3312,7 +3312,7 @@
       "templateId": "Quest:stonewoodquest_fetch_researchcrates",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -3335,7 +3335,7 @@
         "completion_expeditions_guard_heroes": 1,
         "level": -1,
         "completion_expeditions_intro": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -3434,7 +3434,7 @@
       "templateId": "Quest:stonewoodquest_landmark_buildoff",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_stonewoodquest_landmark_buildoff": 1,
         "challenge_bundle_id": "",
@@ -3678,7 +3678,7 @@
       "attributes": {
         "gender": "2",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Dreamer-F01.IconDef-WorkerPortrait-Dreamer-F01",
         "max_level_bonus": 0,
@@ -3723,7 +3723,7 @@
       "templateId": "Quest:genericquest_killmistmonsters_repeatable",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 6,
         "challenge_bundle_id": "",
@@ -3744,7 +3744,7 @@
       "attributes": {
         "gender": "2",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-WorkerPortrait-Dependable-F02.IconDef-WorkerPortrait-Dependable-F02",
         "max_level_bonus": 0,
@@ -3851,7 +3851,7 @@
       "attributes": {
         "completion_pickaxequest_stw005_tier_6": 6,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -3890,7 +3890,7 @@
       "templateId": "Quest:achievement_protectthesurvivors",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_custom_protectthesurvivors": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -4051,7 +4051,7 @@
       "attributes": {
         "completion_plankertonquest_tutorial_perk_obj_guardscreen01": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -4336,7 +4336,7 @@
       "templateId": "Quest:heroquest_loadout_outlander_1",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -4443,7 +4443,7 @@
       "attributes": {
         "completion_stonewoodquest_joelkarolina_killmistmonsters": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -4553,7 +4553,7 @@
       "templateId": "Quest:homebaseonboardinggrantschematics",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_questcomplete_outpostquest_t1_l1": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -4611,7 +4611,7 @@
       "templateId": "Quest:tutorial_loadout_support5",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_heroloadout_support5_guardscreen1": 1,
         "challenge_bundle_id": "",
@@ -4652,7 +4652,7 @@
       "attributes": {
         "gender": "1",
         "level": 1,
-        "item_seen": false,
+        "item_seen": true,
         "squad_slot_idx": -1,
         "portrait": "/Game/UI/Icons/Icon-Worker/IconDefinitions/IconDef-ManagerPortrait-Gadgeteer-M01.IconDef-ManagerPortrait-Gadgeteer-M01",
         "max_level_bonus": 0,
@@ -4670,7 +4670,7 @@
       "templateId": "Quest:genericquest_killminibosses_repeatable",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_kill_miniboss": 0,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -4768,7 +4768,7 @@
       "templateId": "Quest:stonewoodquest_fetch_stormcalls",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -4788,7 +4788,7 @@
       "templateId": "Quest:stonewoodquest_gathercollect_armoryupgrade",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "completion_stonewoodquest_gathercollect_armoryupgrade": 7,
@@ -4928,7 +4928,7 @@
       "templateId": "Quest:plankertonquest_fetch_searchingforlab",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5133,7 +5133,7 @@
       "templateId": "Quest:stonewoodquest_tutorial_survivorslotting",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_survivorslotting_highlight_command": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -5231,7 +5231,7 @@
         "completion_defenderupgrade_guard_heroes": 1,
         "completion_defenderupgrade_tabcallout": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5410,7 +5410,7 @@
       "attributes": {
         "level": -1,
         "completion_pickaxequest_stw003_tier_4": 2,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5527,7 +5527,7 @@
       "templateId": "Quest:plankertonquest_landmark_lars",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_plankertonquest_landmark_lars": 1,
         "challenge_bundle_id": "",
@@ -5613,7 +5613,7 @@
       "templateId": "Quest:teamperkquest_superchargedtraps",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5717,7 +5717,7 @@
       "templateId": "Quest:teamperkquest_onetwopunch",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5783,7 +5783,7 @@
       "attributes": {
         "completion_heroloadout_gadgets_guardscreen1": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5814,7 +5814,7 @@
       "templateId": "Quest:heroquest_loadout_ninja_2",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5899,7 +5899,7 @@
       "templateId": "Quest:plankertonquest_mechanical_refuelintro",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -5958,7 +5958,7 @@
       "templateId": "Quest:heroquest_outlanderleadership",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_has_item_outlander": 0,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -6039,7 +6039,7 @@
       "attributes": {
         "level": -1,
         "completion_heroloadout_preset_guardscreen1": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6087,7 +6087,7 @@
       "templateId": "Quest:reactivequest_copperore",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6175,7 +6175,7 @@
       "attributes": {
         "completion_unlock_skill_tree_ninja_leadership": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_has_item_ninja": 0,
         "challenge_bundle_id": "",
@@ -6242,7 +6242,7 @@
       "templateId": "Quest:heroquest_loadout_soldier_1",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_complete_pve03_diff24_loadout_soldier": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -6264,7 +6264,7 @@
         "level": -1,
         "completion_stonewoodquest_mechanical_killhusks_ranged": 20,
         "completion_stonewoodquest_mechanical_killhusks_trap": 20,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6325,7 +6325,7 @@
       "templateId": "Quest:tutorial_loadout_support2",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_heroloadout_support2_intro": 1,
         "challenge_bundle_id": "",
@@ -6535,7 +6535,7 @@
       "attributes": {
         "completion_stonewoodquest_fetch_triangulatingpop": 5,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6595,7 +6595,7 @@
       "attributes": {
         "completion_alteration_upgrade": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6661,7 +6661,7 @@
     "2e0f2991-66e6-4d1d-947b-0ac0ea22e1a3": {
       "templateId": "Quest:stonewoodquest_tutorial_survivorsquads",
       "attributes": {
-        "item_seen": false,
+        "item_seen": true,
         "completion_survivorsquads_squadtilesguard": 1,
         "completion_survivorsquads_commandguardaccount": 1,
         "xp_reward_scalar": 1,
@@ -6768,7 +6768,7 @@
       "templateId": "Quest:challenge_toxictreasures_8",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -6864,7 +6864,7 @@
       "templateId": "Quest:challenge_eldritchabominations_19",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 95,
         "challenge_bundle_id": "",
@@ -6904,7 +6904,7 @@
       "attributes": {
         "level": -1,
         "completion_schematicupgrade_armoryguard": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -7166,7 +7166,7 @@
       "templateId": "Quest:pickaxequest_stw001_tier_1",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_questcomplete_outpostquest_t1_l1": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -7306,7 +7306,7 @@
       "templateId": "Quest:stonewoodquest_tutorial_upgrade",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_upgrades_guard_upgrades": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -7337,7 +7337,7 @@
       "templateId": "Quest:outpostquest_firstopen_endless",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_complete_endless_firstopen": 0,
         "challenge_bundle_id": "",
@@ -7399,7 +7399,7 @@
       "attributes": {
         "completion_cb_tabcallout": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "completion_cb_intro": 1,
@@ -7439,7 +7439,7 @@
       "templateId": "Quest:challenge_eldritchabominations_17",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_kill_husk_smasher": 85,
         "challenge_bundle_id": "",
@@ -7683,7 +7683,7 @@
       "templateId": "Quest:challenge_replacealteration",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_alteration_respec": 1,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -7749,7 +7749,7 @@
       "templateId": "Quest:achievement_destroygnomes",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -7770,7 +7770,7 @@
       "attributes": {
         "completion_kill_husk_ele_fire": 63,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -7789,7 +7789,7 @@
       "templateId": "Quest:stonewoodquest_tutorial_research",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_research_highlight": 1,
         "challenge_bundle_id": "",
@@ -7931,7 +7931,7 @@
       "attributes": {
         "level": -1,
         "completion_heroloadout_commander_guardscreen1": 1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -7998,7 +7998,7 @@
       "templateId": "Quest:stonewoodquest_fetch_directorstuff",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "completion_stonewoodquest_fetch_directorstuff": 5,
         "challenge_bundle_id": "",
@@ -8086,7 +8086,7 @@
       "templateId": "Quest:genericquest_killwaterhusks_repeatable",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -8126,7 +8126,7 @@
       "templateId": "Quest:heroquest_loadout_constructor_1",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "completion_complete_pve01_diff24_loadout_constructor": 0,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -8292,7 +8292,7 @@
       "templateId": "Quest:pickaxequest_stw007_basic",
       "attributes": {
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -8333,7 +8333,7 @@
       "attributes": {
         "completion_custom_craftfirstweapon": 1,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
@@ -61813,7 +61813,7 @@
         "creation_time": "min",
         "completion_complete_delivergoods_3_diff3": 2,
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "playlists": [],
         "sent_new_notification": true,
         "challenge_bundle_id": "",
@@ -62802,7 +62802,7 @@
       "attributes": {
         "creation_time": "min",
         "level": -1,
-        "item_seen": false,
+        "item_seen": true,
         "playlists": [],
         "sent_new_notification": true,
         "completion_complete_gate_triple_3_diff2": 3,
