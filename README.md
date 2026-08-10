@@ -82,5 +82,26 @@
 3) Run "start.bat", It should say "Started listening on port 3551"
 4) Use something to redirect the fortnite servers to localhost:3551 (Which could be fiddler, ssl bypass that redirects servers, etc...)
 
-## Looking for Fiddler Script?
-[Fiddler Script](fiddler.jscript)
+<details>
+<summary>Looking for the FiddlerScript? Click here to reveal.</summary>
+
+```javascript
+import Fiddler;
+
+class Handlers
+{
+    static function OnBeforeRequest(oSession: Session) {
+        if (oSession.hostname.Contains("epic") && !oSession.fullUrl.Contains("/v1/item/"))
+        {
+            if (oSession.HTTPMethodIs("CONNECT"))
+            {
+                oSession["x-replywithtunnel"] = "BackendTunnel";
+                return;
+            }
+            oSession.fullUrl = "http://127.0.0.1:3551" + oSession.PathAndQuery;
+        }
+    }   
+}
+```
+
+</details>
